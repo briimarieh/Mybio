@@ -28,6 +28,10 @@ h1 {
     font-weight: 400;
 }
 
+h2 {
+    text-shadow: 1px 1px 1px black;
+}
+
 #navbar a {
     float: left;
     color: #d6d3d0;
